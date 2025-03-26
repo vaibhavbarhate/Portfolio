@@ -244,6 +244,7 @@ html::-webkit-scrollbar-thumb {
   width: 70%;
   margin-left: 6rem;
   border-radius: 50%;
+  margin-top: 60px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   cursor: pointer;
 }
@@ -361,7 +362,7 @@ html::-webkit-scrollbar-thumb {
     margin-top: 12rem;
   }
   .home .image img {
-    margin-top: -12rem;
+    margin-top: 1rem;
   }
   .home .content p {
     font-size: 2.2rem;
